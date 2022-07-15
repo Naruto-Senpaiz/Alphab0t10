@@ -1,6 +1,6 @@
 {
     "self_mode": true,
-	"autobio": ttur,
+	"autobio": true,
 	"antihidetag": true,
 	"user_register": true,
 	"anti_delete" : true,
