@@ -1,18 +1,18 @@
 {
-    "self_mode": false,
-	"autobio": false,
+    "self_mode": true,
+	"autobio": ttur,
 	"antihidetag": true,
 	"user_register": true,
-	"anti_delete" : false,
-	"anticall": true,
+	"anti_delete" : true,
+	"anticall": false,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "6283185235658",
-	"ownerNumberr": "6283185235658",
-	"cr": "@ZeeoneOfc",
-	"ownername": "bram",
-	"botname":"BӨƬ",
+	"ownerNumber": "6288804947282",
+	"ownerNumberr": "6288804947282",
+	"cr": "@ZeoneeOfc",
+	"ownername": "Yamato",
+	"botname":"YamatoBotz",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Bram BӨƬ  」\nCreated By @jeje"
+	"fake": " 「  YamatoBotz  」\nCreated By @Yamato"
 }
